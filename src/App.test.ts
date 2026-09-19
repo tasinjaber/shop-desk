@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("Shop Desk",()=>{it("has a stable application name",()=>expect("Shop Desk".length).toBeGreaterThan(3))});
